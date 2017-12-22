@@ -25,8 +25,8 @@ ifdef::github[]
 endif::[]
 ifdef::gitlab[]
 :repo-url: https://gitlab.com/{owner}/{project}
-:repo-compare: {repo-url}/compare?from=
-:compare-split: &to=
+:repo-compare: {repo-url}/compare/
+:compare-split: ...
 endif::[]
 
 ifdef::latest-version[]
