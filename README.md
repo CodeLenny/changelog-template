@@ -10,7 +10,6 @@ A fancy template for CHANGELOG files.
 = Changelog
 :github:
 // :gitlab:
-:host: https://github.com
 :owner: CodeLenny
 :project: ...
 
