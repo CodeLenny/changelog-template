@@ -61,6 +61,8 @@ Initial Release.
 :version-log-url: {repo-changelog}#{version}---{version-date}
 
 == link:{version-file-url}[{version} - {version-date}]
+
+link:{version-file-url}[Code] (link:{version-diff-url}[Diff]) | link:{version-log-url}[Changelog]
 ```
 
 ### Later Versions
